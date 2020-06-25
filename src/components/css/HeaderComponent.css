@@ -1,0 +1,14 @@
+.foneflex
+{
+    height: 25%;
+    color: white;
+    background-color:violet;
+    padding-left: 90px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+   
+    background-image: linear-gradient(90deg,rgb(25, 147, 247), rgb(60, 77, 85));
+}
